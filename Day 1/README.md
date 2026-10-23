@@ -37,4 +37,4 @@ The dataset contains three columns:
 Through this project, I learned how to inspect a DataFrame, access specific columns, understand data types, and filter data using Pandas.
 
 ## Author
-**Mansi Sakhare**# Daily-Pandas-Learning
+**Mansi Sakhare**
